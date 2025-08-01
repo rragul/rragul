@@ -2,7 +2,7 @@
 
 ## I'm Ragul
 
-Web Developer | Problem Solver | Lifelong Learner
+Software Engineer | Problem Solver | Lifelong Learner
 
 🔭 I'm a Software Engineer at Arimac building cool stuff using Java and Spring Boot
 
