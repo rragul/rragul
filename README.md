@@ -4,7 +4,7 @@
 
 Web Developer | Problem Solver | Lifelong Learner
 
-🔭 I'm an Associate Software Engineer at Arimac building cool stuff using Java and Spring Boot
+🔭 I'm a Software Engineer at Arimac building cool stuff using Java and Spring Boot
 
 🌱 I love learning new things and exploring new technologies
 
